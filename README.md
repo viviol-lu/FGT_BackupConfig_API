@@ -4,12 +4,13 @@
 - Python 3.9
 - Install libary
     ```
-    cd BackupConfig_API
+    cd FGT_BackupConfig_API
     pip install -r requirements.txt
     ```
 ### 使用方式
-1. 將 fortigate 的 IP & API key 寫到 `fgt_info.csv` 中
-2. 執行程式 `python backup.py`
+1. `git clone https://github.com/viviol-lu/FGT_BackupConfig_API.git` 將檔案下載
+2. 將 fortigate 的 IP & API key 寫到 `fgt_info.csv` 中
+3. 執行程式 `python backup.py`
 
 ## 設定
 ### CSV 格式
