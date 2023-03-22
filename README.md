@@ -10,7 +10,8 @@
 ### 使用方式
 1. `git clone https://github.com/viviol-lu/FGT_BackupConfig_API.git` 將檔案下載
 2. 將 fortigate 的 IP & API key 寫到 `fgt_info.csv` 中
-3. 執行程式 `python backup.py`
+3. 程式已設定每日 15:10 進行備份，若要修改時間，backup.py 第 38 行，將 15:10 改成想要的時間
+4. 執行程式 `python backup.py`
 
 ## 設定
 ### CSV 格式
