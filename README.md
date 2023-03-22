@@ -23,7 +23,7 @@ FGT_IP,FGT_API_KEY
 ### 產生 API Key
 - `System > Administrators > Created New > REST API Admin` 設定 API Account</br>
 ![CleanShot 2023-03-22 at 09 18 32](https://user-images.githubusercontent.com/69979158/226832299-c5f33248-0f60-468b-8506-fa9d19856463.png)
-- 設定 `Username`、`Administrator Profile`、`Trusted Hosts`，完成後按下 `OK`，其中，Administrator Profile 需要是 <font color=red>read/write 權限</font></br>
+- 設定 `Username`、`Administrator Profile`、`Trusted Hosts`，完成後按下 `OK`，其中，Administrator Profile 需要是 **read/write 權限**</br>
 ![CleanShot 2023-03-22 at 09 24 29](https://user-images.githubusercontent.com/69979158/226832413-4e8d1a45-2d00-4b9e-b075-4b45f859f20b.png)
 ![CleanShot 2023-03-22 at 13 57 47](https://user-images.githubusercontent.com/69979158/226832555-73142fbc-d16d-4446-853a-da70cb0a6d66.png)
 - 按下完成後會取得一組 API key，該 key 要儲存好</br>
